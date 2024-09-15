@@ -11,3 +11,9 @@ def mostrar_contenido(variable):  # dentro de la función está el parámetro "v
 """ Esta es una llamada a la función.
     Dentro del paréntesis está el argumento que pasamos a la función """
 mostrar_contenido(variable)
+
+
+print() #imprime en pantalla
+
+
+
